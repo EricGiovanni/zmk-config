@@ -1,31 +1,31 @@
 # Sofle
 
-- [中文](README.md)
-- [English](README_EN.md)
+- [Español](README.md)
+- [Inglés](README_EN.md)
 
-## 更新列表
+## Lista de actualizaciones
 
 - 2024/12/21
-  1. 增加zmk-studio支持（只需要刷新左手即可使用）。
+  1. Se agregó compatibilidad con zmk-studio (solo es necesario actualizar el firmware del lado izquierdo para utilizarlo).
 - 2024/10/24
-  1. 修改供电模式，功耗降低。
-  2. 修正RGB供电自动关闭的功能。
-- 2025/3/30 增加睡眠进入时间1小时  增加防抖时间 优化睡眠后功耗 
+  1. Se modificó el modo de alimentación para reducir el consumo de energía.
+  2. Se corrigió la función de apagado automático de la alimentación RGB.
+- 2025/3/30
+  1. Se aumentó a una hora el tiempo antes de entrar en suspensión, se incrementó el tiempo de antirrebote y se optimizó el consumo de energía durante la suspensión.
 - 2025/8/22
-  1. 更新了soft off。当您同时按下 Q、S 和 Z 键并按住 2 秒钟时，键盘将进入深度睡眠状态，无法通过按键唤醒。携带外出时可以使用此功能。激活方式为按一次复位开关。
-  2. 这个月，我还更新了矮轴版本sofle和corne的外壳。框架和底板加厚了，复位开关的开口也进行了调整，可以轻松按下复位开关。目前，我们仍在构思如何设计带有倾斜支架的外壳。如果您仔细检查过 PCB，您会注意到有用于扩展 IO 的预留接口。不知道有没有人能够使用它们，我会尝试一下！
-  3. 右侧键盘屏幕上的GIF动画被移除，这将显著降低右侧键盘的功耗。
+  1. Se actualizó la función soft off. Al presionar simultáneamente las teclas Q, S y Z durante 2 segundos, el teclado entra en un estado de suspensión profunda y no puede reactivarse mediante las teclas. Esta función puede utilizarse al transportar el teclado. Para reactivarlo, presione una vez el interruptor de reinicio.
+  2. Este mes también se actualizaron las carcasas de las versiones de perfil bajo de sofle y corne. Se aumentó el grosor del marco y de la placa inferior, y se ajustó la abertura del interruptor de reinicio para facilitar su pulsación. Actualmente, todavía se está evaluando cómo diseñar una carcasa con soporte inclinado. Si examina detenidamente la PCB, observará que hay interfaces reservadas para ampliar las conexiones IO. No se sabe si alguien ha logrado utilizarlas; se intentará comprobarlo.
+  3. Se eliminó la animación GIF de la pantalla del lado derecho del teclado, lo que reduce considerablemente su consumo de energía.
 
--2026/6/22 键盘支持DYA STUDIO改键了中文用户联系店主索取中文版DYA STUDIO安装包。这个上位机软件改键比ZMK studio更好用。
+- 2026/6/22
+  1. El teclado ahora permite reasignar teclas mediante DYA STUDIO. Los usuarios chinos deben comunicarse con el vendedor para obtener el instalador de la versión china de DYA STUDIO. Este software de escritorio ofrece una mejor reasignación de teclas que ZMK studio.
 
-> 请更新最新的固件。
->
+> Actualice a la versión más reciente del firmware.
 
-## 联系我
+## Contacto
 
-如需3D打印的模型文件或者键盘有任何异常和故障，请联系380465425@qq.com
+Para solicitar archivos de modelos para impresión 3D o informar cualquier anomalía o falla del teclado, comuníquese con 380465425@qq.com.
 
-## Sofle键位图
+## Mapa de teclas de Sofle
 
-![Sofle键位图](keymap-drawer/eyelash_sofle.svg)
-
+![Mapa de teclas de Sofle](keymap-drawer/eyelash_sofle.svg)

@@ -1,6 +1,15 @@
-build/
-zmk/
-modules/
-tools/
-.west/
-.omo
+# ZMK and west workspaces
+/build/
+/zmk/
+/modules/
+/tools/
+/.west/
+
+# Local tooling and editors
+/.atl/
+/.omo
+/.idea/
+/.vscode/
+
+# Operating system metadata
+.DS_Store

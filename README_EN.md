@@ -1,6 +1,6 @@
 # Sofle
 
-- [Chinese](README.md)
+- [Spanish](README.md)
 - [English](README_EN.md)
 
 ## Update List
